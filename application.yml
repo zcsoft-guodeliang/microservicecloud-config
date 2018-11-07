@@ -13,4 +13,4 @@ spring:
   application: 
     name: microservicecloud-config-zssi-test
 
-#必须要以utf-8保存
+#必须要以utf-8保存，这个文件是初始化
